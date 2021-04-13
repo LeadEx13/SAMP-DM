@@ -1,0 +1,61 @@
+/==User Info==/
+UserName=UnNamed
+password=143131249
+pass=asdasd
+RegisteredDate=26/6/2011
+Ip=127.0.0.1
+AutoLogin=1
+/==Stats==/
+ChatTag=ùç÷ï øâéì
+Level=10
+Kills=0
+Deaths=0
+/==Money==/
+Bank=0
+Money=0
+/==Car==/
+CarID1=0
+OwnCar1=0
+/==Car2==/
+CarID2=0
+OwnCar2=0
+/==Car3==/
+CarID3=0
+OwnCar3=0
+/==Car4==/
+CarID4=0
+OwnCar4=0
+/==Info==/
+FirstName=N/A.
+ICQ=0
+Msn=N/A.
+Skype=N/A.
+Clan=None.
+ClanLvl=0
+Organization=None.
+Warnings=0
+Carpark=0
+War=0
+Monster=0
+Race=0
+Gre=0
+Mini=0
+Olimp=0
+ChainSaw=0
+Dozer=0
+Climb=0
+Glass=0
+RPG=0
+Skin=-1
+/==ChangeNick==/
+LastChangeNick=None.
+NickChanged=0
+TimesNickChanged=0
+/==Weapons==/
+Pistol Id=0
+Shotgun Id=0
+Uzi Id=0
+Ak/M4 Id=0
+Bazooka=0
+Bomb=0
+Bombs=0

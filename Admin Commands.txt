@@ -1,0 +1,44 @@
+/ Time
+{"morning",1},{"noon",1},{"evening",1},{"midnight",1},{"settime",1},{"satime",1},
+// Kick/Ban/Unban
+{"kick",2},{"kickall",8},
+{"ban",2},{"tempban",3},
+{"unban",2},{"unbanip",3},{"banned",2},{"bannedip",2},{"untb",3},{"untbip",3},
+// Goto/Get
+{"goto",2},{"get",2},{"ptp",4},
+// Mute/Jail/Freeze/Explode/Slap/Kill
+{"mute",2},{"unmute",2},{"muted",2},
+{"jail",2},{"unjail",2},{"jailed",2},
+{"freeze",2},{"unfreeze",2},{"fall",6},{"unfall",6},
+{"slap",2},{"akill",3},{"explode",5},
+// HealthArmor/Vehicle
+{"full",2},{"sethp",2},{"setar",2},{"healall",4},{"armorall",4},{"god",4},
+{"flip",1},{"carhealth",2},{"vr",2},{"vrall",5},{"carcolor",1},{"eject",2},{"ejectall",3},{"givecar",6},
+{"gn",5},{"xlock",4},{"xunlock",4},{"xunlockall",5},
+// Money
+{"setmoney",8},{"givemoney",8},{"remmoney",8},{"resetmoney",8},{"samoney",9},{"gamoney",9},{"remamoney",9},{"ramoney",9},
+// Weapon/Ammo
+{"giveweapon",2},{"gaweapon",3},{"raweapons",5},{"disarm",4},{"getslot",2},{"setammo",2},
+// Skin
+{"setskin",1},{"skinall",2},
+// Name/Account/PlayerInfo/Server
+{"setname",12},{"saccname",12},{"changepass",1},
+{"ip",3},{"ping",3},
+{"uconfig",12},{"setsm",12},{"gmx",12},{"sgravity",12},{"setping",12},{"cfgvar",12},{"xvar",12},
+// World/Scores/Wanted
+{"setworld",5},{"saworld",11},{"outsideall",8},
+{"setscore",8},{"rscores",8},
+{"setwanted",5},{"sawanted",7},
+// Announcements/ChatControl
+{"ann",1},{"say",1},{"saa",2},{"snatime",10},{"snatext",8},{"sna",5},
+{"c",1},{"ca",2},{"chat",3},{"ac",8},{"lpt",6},
+// Commands/PMs
+{"pcmds",9},{"acmds",3},{"ppms",2},
+// Admin/CD/Spec/AdminVehicle/Other
+{"setlevel",12},{"tmplevel",12},{"rc",12},{"aafk",1},{"inv",1},
+{"cd",1},{"kcd",1},
+{"xspec",1},
+{"spawnc",3},{"spawnd",3},{"spawncall",6},
+{"plusz",1},{"force",5},
+// Teleport
+{"ct",4},{"ctd",4},{"ctl",4}
